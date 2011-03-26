@@ -6,7 +6,10 @@
 #define WBXML_CONFIG_H
 
 /** WBXML Parser Lib Version */
-#define WBXML_LIB_VERSION "0.10.7"
+#define WBXML_LIB_VERSION "0.10.9"
+
+#define HAVE_EXPAT
+#include <expat.h>
 
 /* Define to 1 if you would like to enable debug, warning and error messages */
 /* #undef WBXML_LIB_VERBOSE */

@@ -1,0 +1,10 @@
+History.txt
+License.txt
+Manifest.txt
+README.txt
+config/hoe.rb
+config/requirements.rb
+ext/wbxml/extconf.rb
+ext/wbxml/wbxml.c
+lib/wbxml/version.rb
+setup.rb
